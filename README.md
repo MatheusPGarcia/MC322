@@ -1,2 +1,7 @@
 # MC322
-2S 2018 - MC322 Programação Orientada a Objetos - Fábio Luiz Usberti
+Labs e trabalhos desenvolvidos na disciplina de MC322 no segundo semestre de 2018.
+
+### Autor:
+  #### - Nome: Matheus Pompeo Garcia
+  #### - Email: matheuspgarcia@gmail.com
+  #### - GitHub: https://github.com/MatheusPGarcia
