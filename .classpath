@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="src" path="Lab1/src"/>
+	<classpathentry kind="src" path="Lab2/src"/>
+	<classpathentry kind="src" path="Lab3/src"/>
+	<classpathentry kind="lib" path="mc322t1/svoyiKoziri.jar"/>
+	<classpathentry kind="output" path="Lab1/bin"/>
+</classpath>
