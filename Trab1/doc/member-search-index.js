@@ -1,0 +1,1 @@
+memberSearchIndex = [{"p":"player","c":"PlayerRA156742","l":"getTrump()"},{"p":"player","c":"PlayerRA156742","l":"PlayerRA156742(Suit)","url":"PlayerRA156742-deck.Suit-"},{"p":"player","c":"PlayerRA156742","l":"playRound(boolean, Engine)","url":"playRound-boolean-engine.Engine-"}]
